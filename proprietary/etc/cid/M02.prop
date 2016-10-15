@@ -1,0 +1,15 @@
+ro.product.model=B15Q
+ro.operator.optr=M02
+ro.cust.ril.cb_enable=off
+ro.cust.ril.sms_char_language=es,en,pt,fr,de
+ro.cust.ril.mms_max_size=300
+ro.cust.ril.mms_max_size_list=300,600,1024
+ro.cust.ril.mms_user_agent=Android-mms/0.1
+ro.cust.ril.mms_user_profile=http://catphones.com/uaprof/b15-smartphone_rogers.xml
+ro.cust.ril.homepage=http://www.google.com/webhp?client={CID}&amp;source=android-home
+ro.cust.ril.allecc=999,000
+ro.cust.ril.xmlfile=bookmarks/b15q.xml
+ro.cust.ril.callerid_match=7
+ro.config.notification_sound=Proxima.ogg
+ro.config.alarm_alert=Alarm_Classic.ogg
+ro.config.ringtone=Backroad.ogg
