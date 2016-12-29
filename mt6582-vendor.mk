@@ -9,3 +9,5 @@ PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/mediatek/mt6582/pro
 PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/mediatek/mt6582/proprietary/vendor,system/vendor)
 
 PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/mediatek/mt6582/proprietary/framework,system/framework)
+
+PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/mediatek/mt6582/proprietary/fonts,system/fonts)
